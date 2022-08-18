@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Gaddy</h1>
-<h3 align="center">A passionate fullstack and app-developer from the United States.</h3>
+<h3 align="center">A passionate fullstack and front end app developer from the United States.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
