@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Paul Gaddy</h1>
 <h3 align="center">A passionate fullstack and front end app developer from the United States.</h3>
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paul-g-185b0318a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-g-185b0318a" height="30" width="40" /></a>
