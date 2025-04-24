@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior year ITWS and Finance student at RPI. <br><br>Passion Project: Kre8 Content, Fiverr for content creators and video editors without the hassle.
+<br>Passion Project: Kre8 Content, Fiverr for content creators and video editors without the hassle.
 
 
 # 💻 Tech Stack:
